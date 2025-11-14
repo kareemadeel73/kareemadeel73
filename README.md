@@ -1,35 +1,27 @@
-<h1 align="center">Hi 👋, I'm Kareem</h1>
-<h3 align="center">Web Developer | Front-End Enthusiast | JavaScript Lover</h3>
+<h1 align="center">  Hi👋 , I'm Kareem Adel </h1>
+<h3 align="center">Web Developer | Front-End React </h3>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
+- a Computer Science student at MTI University, passionate about continuous learning and self-development in the IT and software development field. I enjoy exploring new technologies, building small projects to apply what I learn, and constantly improving my skills. My goal is to build a strong career path and contribute to creating efficient and innovative solutions.
+  
 - 💻 I’m passionate about **Web Development & Front-End Design**  
 - 🚀 Currently learning **Advanced JavaScript, TypeScript & React**  
 - 🎯 I enjoy building clean and responsive UI with attention to detail  
 - 🤝 Looking to collaborate on **creative and impactful web projects**  
-- 🎧 Fun fact: I love turning ideas into elegant web designs  
 
 ---
 
 ## 💬 How to reach me  
-- 📧 Email: kareem@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/kareem  
-- 🌐 Portfolio: https://kareem.github.io/portfolio  
+- 📧 Email: kareemadeel73@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/kareem adel  
 
 ---
 
 ## 🛠️ Languages & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nodejs,express,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kareem&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem&layout=compact&theme=dark" height="150"/>
 </p>
 
 ---
@@ -41,12 +33,13 @@
 
 ---
 
-## ⭐ Portfolio Highlights  
-- 🔗 Project 1 — Description  
-- 🔗 Project 2 — Description  
-- 🔗 Project 3 — Description  
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kareem&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem&layout=compact&theme=dark" height="150"/>
+</p>
 
----
+
 
 <div align="center">
   
