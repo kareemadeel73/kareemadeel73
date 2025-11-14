@@ -15,7 +15,7 @@
 
 ## 💬 How to reach me  
 - 📧 Email: kareemadeel73@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/kareem adel  
+- 💼 LinkedIn: https://linkedin.com/in/kareem-adeel-10a662276  
 
 ---
 
